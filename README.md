@@ -192,14 +192,7 @@ timeline
 
 <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsohaib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsohaib&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<br>
 
 ## 🎯 Current Goals
 
