@@ -121,8 +121,7 @@ const muhammadSohaib = {
         <p>
           <b>Tech:</b> .NET 6, Clean Architecture, SOAP/WSDL<br>
           <b>What it does:</b> Supply-chain for medical instruments<br>
-          <b>Achievement:</b> Successfully integrated FedEx API on first try*<br>
-          <sub>*after 47 attempts</sub>
+          <b>Achievement:</b> Successfully integrated FedEx API <br>
         </p>
       </div>
     </td>
