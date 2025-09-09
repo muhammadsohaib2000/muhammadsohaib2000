@@ -6,11 +6,11 @@
 </div>
 
 <!-- Professional Typing Animation -->
-<div align="center">
+<!--<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+turn+coffee+into+code+☕;Bug+hunter+by+day%2C+bug+creator+by+night+🐛;Let's+build+something+awesome+together!" alt="Typing SVG" />
   </a>
-</div>
+</div>-->
 
 <!-- Social Links -->
 <div align="center">
