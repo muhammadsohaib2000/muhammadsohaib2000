@@ -233,16 +233,6 @@ I'm always excited to connect with fellow developers, collaborate on interesting
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br><br>
-
-### ⚡ Fun Facts About Me
-
-- 🎮 I debug code like I play video games - with lots of respawns
-- 🍕 Pizza is my debugging fuel
-- 🌙 My best code is written between 10 PM and 2 AM
-- 🎵 Coding playlist: 50% lo-fi, 50% heavy metal
-- 🤔 I still Google "how to center a div" occasionally
-
 </div>
 
 ---
