@@ -163,7 +163,7 @@ timeline
          : Discovered that "Hello World" is harder than it looks
     
     2022 : Graduated from COMSATS
-         : Officially became a "Software Engineer"
+         : Officially became a "Computer Engineer"
          : Joined Cloudtek Pvt. Ltd
     
     2023 : Mastered the art of Stack Overflow
@@ -230,7 +230,7 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 
 <br>
 
-<a href="https://www.linkedin.com/in/muhammad-sohaib">
+<a href="www.linkedin.com/in/muhammad-sohaib-7a8238155">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -255,5 +255,5 @@ I'm always excited to connect with fellow developers, collaborate on interesting
   
   <br>
   
-  ⭐ From [muhammadsohaib](https://github.com/muhammadsohaib) with bugs... I mean love 💙
+  ⭐ From [muhammadsohaib](https://github.com/muhammadsohaib2000) with bugs... I mean love 💙
 </div>
